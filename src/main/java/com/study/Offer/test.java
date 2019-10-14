@@ -1,10 +1,7 @@
 package com.study.Offer;
 
 public class test {
-    /**
-     * 维护构建二叉树的值和值索引
-     */
-     static class TreeValue {
+    public static class TreeValue {
         public static int index = 0;
         public static final int[] TREE_VALUE = new int[]{1,2,3,0,4,5,0,0,6,0,0,7,0,0,8,0,9,10,0,0,0};
     }
@@ -57,4 +54,6 @@ public class test {
         TreeNode root = new TreeNode();
         root = createTree(root, 0);
     }
+
+
 }

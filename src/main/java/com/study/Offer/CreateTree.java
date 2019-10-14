@@ -1,5 +1,6 @@
 package com.study.Offer;
 
+import java.sql.SQLOutput;
 import java.util.Stack;
 
 public class CreateTree {
@@ -14,21 +15,24 @@ public class CreateTree {
     }
     public static treeNode create(int [] num,int index){
         treeNode root=new treeNode(num[index]);
-        treeNode node=addNode(root,num,index+1);
+        System.out.println(root.value);
+        addNode(root,num,index+1);
         return root;
 
     }
 
     public static treeNode addNode(treeNode  node,int [] num,int index) {
-        treeNode newNode = new treeNode(num[index]);
-        if (num[index - 1] >= num[index]&&index<num.length-1) {
-            node.left = addNode(newNode, num, index + 1);
-        } else if(num[index - 1] <num[index]&&index<num.length-1){
-            node.right = addNode(newNode, num, index + 1);
+        if(num[index]==0){
+            return null;
         }else {
-            return newNode;
+
+            node.left = addNode(new treeNode(num[index]),num,index+1);
+            System.out.println(node.value);
+            node.right = addNode(new treeNode(num[index]),num,index+1);
+            System.out.println(node.value);
+            return node;
         }
-        return node;
+
     }
 
 //qianxu bianli
@@ -50,9 +54,9 @@ public class CreateTree {
 
 
     public static void main(String[] args) {
-        int [] num={5,3,1,4,7,6,8};
+        int [] num={1,2,3,0,4,5,0,0,6,0,0,7,0,0,8,0,9,10,0,0,0};
         treeNode node=create(num,0);
-        prePrint(node);
+     //   prePrint(node);
     }
 
     }
