@@ -1,63 +1,57 @@
 package com.study.Offer;
 
-import java.sql.SQLOutput;
-import java.util.Stack;
+import java.util.LinkedList;
+import java.util.List;
 
-public class CreateTree {
-    static class treeNode{
-        private int value;
-        private treeNode left;
-        private treeNode right;
-        public treeNode(int value){
-            this.value=value;
+/**
+ * 根据子节点位置和父节点位置的关系 创建二叉树
+ */
+public class createTree {
+
+    public static  Node create(){
+         int[] array = { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
+          List<Node> nodeList = null;
+
+        nodeList=new LinkedList<Node>();
+        //将数组中每一个值都设置为一个节点
+        for(int nodeIndex=0;nodeIndex<array.length;nodeIndex++){
+            nodeList.add(new Node(array[nodeIndex]));
+        }
+        //对于数组长度/2-1的节点可以作为父亲节点 且保证由左右子树
+        for(int parentIndex=0;parentIndex<array.length/2-1;parentIndex++){
+            //创建左子树
+            nodeList.get(parentIndex).left=nodeList.get(parentIndex*2+1);
+           //创建右子树
+            nodeList.get(parentIndex).right=nodeList.get(parentIndex*2+2);
+        }
+        //针对最后一个父节点可能没有右子树 单独判断
+        // 最后一个父节点:因为最后一个父节点可能没有右孩子，所以单独拿出来处理
+        int lastParentIndex = array.length / 2 - 1;
+        // 左孩子
+        nodeList.get(lastParentIndex).left = nodeList
+                .get(lastParentIndex * 2 + 1);
+        // 右孩子,如果数组的长度为奇数才建立右孩子
+        if (array.length % 2 == 1) {
+            nodeList.get(lastParentIndex).right= nodeList
+                    .get(lastParentIndex * 2 + 2);
         }
 
+        return nodeList.get(0);
     }
-    public static treeNode create(int [] num,int index){
-        treeNode root=new treeNode(num[index]);
-        System.out.println(root.value);
-        addNode(root,num,index+1);
-        return root;
-
+    /**
+     * 先序遍历
+     *
+     */
+    public static void preOrderTraverse(Node node) {
+        if (node == null)
+            return;
+        System.out.print(node.data + " ");
+        preOrderTraverse(node.left);
+        preOrderTraverse(node.right);
     }
-
-    public static treeNode addNode(treeNode  node,int [] num,int index) {
-        if(num[index]==0){
-            return null;
-        }else {
-
-            node.left = addNode(new treeNode(num[index]),num,index+1);
-            System.out.println(node.value);
-            node.right = addNode(new treeNode(num[index]),num,index+1);
-            System.out.println(node.value);
-            return node;
-        }
-
-    }
-
-//qianxu bianli
-        public static void prePrint(treeNode node){
-            Stack<treeNode> stack = new Stack();
-            while (true) {
-                while (node != null) {
-                    System.out.println(node.value);
-                    stack.push(node);
-                    node = node.left;
-                }
-                if (stack.empty()) {
-                    break;
-                }
-                node = stack.pop();
-                node = node.right;
-            }
-        }
-
-
     public static void main(String[] args) {
-        int [] num={1,2,3,0,4,5,0,0,6,0,0,7,0,0,8,0,9,10,0,0,0};
-        treeNode node=create(num,0);
-     //   prePrint(node);
+        Node node=create();
+       // System.out.println(node.getData());
+         preOrderTraverse(node);
     }
-
-    }
-
+}

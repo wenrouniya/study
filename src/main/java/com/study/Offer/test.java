@@ -1,5 +1,7 @@
 package com.study.Offer;
 
+import java.util.HashMap;
+
 public class test {
     public static class TreeValue {
         public static int index = 0;
@@ -49,11 +51,25 @@ public class test {
             this.val = val;
         }
     }
+    /**
+     * 先序遍历
+     *
+     */
+    public static void preOrderTraverse(TreeNode node) {
+        if (node == null)
+            return;
+        System.out.print(node.val + " ");
 
+
+
+        preOrderTraverse(node.left);
+        preOrderTraverse(node.right);
+    }
     public static void main(String[] args) {
         TreeNode root = new TreeNode();
         root = createTree(root, 0);
+        preOrderTraverse(root);
     }
 
-
+//HashMap
 }
