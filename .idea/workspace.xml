@@ -2,25 +2,76 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4034a8a-b305-41a6-987d-ea3fe0eee032" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/chat/ChatClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/chat/ChatClientHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/chat/ChatClientInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/chat/ChatServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/chat/ChatServerHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/chat/ChatServerInitialize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/study.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/JVM/ReferenceGC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/JVM/test6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/Offer/Fbonaqie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/Offer/Merge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/Offer/Min.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/Offer/OneToMaxOfN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/Offer/ReverseList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/Offer/cutRope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/Offer/reOrderArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/Offer/rebuildTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/Offer/uglynum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/OrderTree/PostOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/OrderTree/PostOrder1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/OrderTree/PreOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/OrderTree/PreOrder1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/OrderTree/levelOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/OrderTree/midOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/OrderTree/midOrder1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/lambda/TesInTERFACE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/lambda/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/redis/testJedis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/synchronizedAndVolatile/test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/Offer/CreateTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/study/Offer/CreateTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/Offer/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/study/Offer/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/Offer/CreateLInklist$linkNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/Offer/CreateLInklist.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/Offer/CreateTree$treeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/Offer/CreateTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/Offer/CreateTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/Offer/TailToHeadReadListlink$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/Offer/TailToHeadReadListlink$ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/Offer/TailToHeadReadListlink.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/Offer/TailToHeadReadListlink.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/Offer/TailToReadListlink$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/Offer/TailToReadListlink$ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/Offer/TailToReadListlink.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/Offer/TailToReadListlink.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/Offer/createLinklist2$linkNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/Offer/createLinklist2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/Offer/test$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/Offer/test$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/Offer/test$TreeValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/Offer/test$TreeValue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/Offer/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/Offer/test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/chat/ChatClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/chat/ChatClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/chat/ChatClientHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/chat/ChatClientHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/chat/ChatClientInitializer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/chat/ChatClientInitializer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/chat/ChatServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/chat/ChatServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/chat/ChatServerHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/chat/ChatServerHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/chat/ChatServerInitialize.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/chat/ChatServerInitialize.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/socket/SocketServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/socket/SocketServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/socket/comeAndBack/ClientSocket.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/socket/comeAndBack/ClientSocket.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/socket/comeAndBack/LikeServerSocket.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/socket/comeAndBack/LikeServerSocket.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/socket/likeClientSocket.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/socket/likeClientSocket.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/study/java8/foreach/com/epi/manager/controller/numberManagerCroller.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/study/java8/foreach/com/epi/manager/controller/numberManagerCroller.class" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/study$createTree.ic" NAME="createTree Coverage Results" MODIFIED="1571127568028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.study.Offer.*</FILTER>
+    </SUITE>
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -43,89 +94,36 @@
         <item name="cmr@localhost" type="feb32156:DbDataSourceImpl" />
         <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
       </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="cmr@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="cmr: schema" type="c314c289:MysqlImplModel$Schema" />
-      </path>
     </expand>
     <select />
   </component>
   <component name="FavoritesManager">
     <favorites_list name="study" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/study/Offer/CreateTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/study/Offer/test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="333">
-              <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
-              <folding>
-                <element signature="e#1196#1197#0" expanded="true" />
-                <element signature="e#1234#1235#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
-    <replaceStrings>
-      <replace>treeNode</replace>
-    </replaceStrings>
+    <findStrings>
+      <find>JVM</find>
+    </findStrings>
+    <dirStrings>
+      <dir>H:\study</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/main/java/study/java8/foreach/test1.java" />
-        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/e8eae33b-7066-4d0e-9dfc-6cc059dab153/console_1.sql" />
-        <option value="$PROJECT_DIR$/src/main/java/study/java8/foreach/test1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/study/socket/likeClientSocket.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/study/socket/comeAndBack/LikeServerSocket.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/study/socket/comeAndBack/ClientSocket.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/study/socket/SocketServer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/study/Offer/TailToReadListlink.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/study/Offer/TailToHeadReadListlink.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/study/Offer/CreateLInklist.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/study/Offer/createLinklist2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/study/Offer/resetBinaryTreeNode.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/study/ChatServer/Server.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/study/chat/Server.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/study/chat/ChatServer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/study/chat/ChatClientHandler.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/study/chat/ChatServerInitialize.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/study/chat/ChatServerHandler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/study/chat/ChatClientInitializer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/study/chat/ChatClient.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/study/Offer/test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/study/Offer/CreateTree.java" />
-      </list>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="H:\study\.idea" />
+      </set>
     </option>
   </component>
   <component name="MavenImportPreferences">
@@ -135,101 +133,36 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="study" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="study" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-        </path>
-      </expand>
-      <select />
-    </treeState>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="28" />
-    <option name="width" value="940" />
-    <option name="height" value="1018" />
-  </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
-              <item name="Offer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectId" id="1SGaP1AVoHfQwCwQ8mM81AjhePk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ChangesTree.GroupingKeys" value="module&#10;directory" />
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="study" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://H:/study/src/main/java/com/study/chat/ChatServerHandler.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571044543694" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
     <property name="database.console.LAST_STATE" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../数据传输07" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15039062" />
+    <property name="project.structure.side.proportion" value="0.3908046" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\study\_123\target\classes" />
+      <recent name="H:\study\_123\src\main\java" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -243,14 +176,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CreateTree">
-    <configuration name="ChatClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.study.chat.ChatClient" />
+  <component name="RunManager" selected="Application.OneToMaxOfN">
+    <configuration name="OneToMaxOfN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.study.Offer.OneToMaxOfN" />
       <module name="study" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.study.chat.*" />
+          <option name="PATTERN" value="com.study.Offer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -258,22 +191,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ChatServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.study.chat.ChatServer" />
-      <module name="study" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.study.chat.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CreateTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.study.Offer.CreateTree" />
+    <configuration name="ReverseList$ListNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.study.Offer.ReverseList$ListNode" />
       <module name="study" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -292,8 +211,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="createLinklist2$linkNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.study.Offer.createLinklist2$linkNode" />
+    <configuration name="cutRope" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.study.Offer.cutRope" />
       <module name="study" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -307,12 +226,34 @@
       </method>
     </configuration>
     <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.study.Offer.test" />
+      <option name="MAIN_CLASS_NAME" value="com.study.lambda.test" />
       <module name="study" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.study.Offer.*" />
+          <option name="PATTERN" value="com.study.lambda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.study.JVM.test1" />
+      <module name="study" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testJedis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.study.redis.testJedis" />
+      <module name="study" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.study.redis.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -321,12 +262,14 @@
       </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <properties />
       <listeners />
@@ -335,19 +278,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.createLinklist2$linkNode" />
+      <item itemvalue="Application.test1" />
+      <item itemvalue="Application.ReverseList$ListNode" />
+      <item itemvalue="Application.testJedis" />
       <item itemvalue="Application.test" />
-      <item itemvalue="Application.CreateTree" />
-      <item itemvalue="Application.ChatClient" />
-      <item itemvalue="Application.ChatServer" />
+      <item itemvalue="Application.cutRope" />
+      <item itemvalue="Application.OneToMaxOfN" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CreateTree" />
+        <item itemvalue="Application.OneToMaxOfN" />
+        <item itemvalue="Application.cutRope" />
         <item itemvalue="Application.test" />
-        <item itemvalue="Application.ChatClient" />
-        <item itemvalue="Application.ChatServer" />
-        <item itemvalue="Application.createLinklist2$linkNode" />
+        <item itemvalue="Application.testJedis" />
+        <item itemvalue="Application.ReverseList$ListNode" />
       </list>
     </recent_temporary>
   </component>
@@ -368,8 +312,29 @@
       <workItem from="1570770601932" duration="700000" />
       <workItem from="1570781112641" duration="987000" />
       <workItem from="1570931550002" duration="231000" />
-      <workItem from="1570931841841" duration="892000" />
-      <workItem from="1571013360321" duration="20800000" />
+      <workItem from="1570931841841" duration="6441000" />
+      <workItem from="1570954604452" duration="2384000" />
+      <workItem from="1570957536328" duration="4436000" />
+      <workItem from="1571056573154" duration="3000" />
+      <workItem from="1571056700713" duration="11000" />
+      <workItem from="1571123772164" duration="6095000" />
+      <workItem from="1571134773882" duration="8506000" />
+      <workItem from="1571192419625" duration="2440000" />
+      <workItem from="1571286477986" duration="595000" />
+      <workItem from="1571714452714" duration="24249000" />
+      <workItem from="1572231788673" duration="684000" />
+      <workItem from="1572490838832" duration="6124000" />
+      <workItem from="1572511855578" duration="7681000" />
+      <workItem from="1572532636394" duration="93000" />
+      <workItem from="1572580967531" duration="4034000" />
+      <workItem from="1572654867937" duration="1825000" />
+      <workItem from="1572786570760" duration="923000" />
+      <workItem from="1572834983297" duration="4281000" />
+      <workItem from="1572865667460" duration="4516000" />
+      <workItem from="1572919374027" duration="6059000" />
+      <workItem from="1572999589080" duration="731000" />
+      <workItem from="1573012839625" duration="3655000" />
+      <workItem from="1573036778479" duration="4638000" />
     </task>
     <task id="LOCAL-00001" summary="20191008 socket学习 单方通信和回信">
       <created>1570542400765</created>
@@ -378,102 +343,65 @@
       <option name="project" value="LOCAL" />
       <updated>1570542400766</updated>
     </task>
-    <task id="LOCAL-00002" summary="20191014 从尾到头便利连表">
-      <created>1571018339446</created>
+    <task id="LOCAL-00002" summary="20191031 归并排序和面试代码">
+      <created>1572500586847</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1571018339446</updated>
+      <updated>1572500586848</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="20191031 leetcode三道">
+      <created>1572532710690</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1572532710690</updated>
+    </task>
+    <task id="LOCAL-00004" summary="20191101 leetcode 两道">
+      <created>1572585219817</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1572585219817</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46878000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="28" width="1920" height="1018" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8598131" weight="0.22513369" />
-      <window_info id="Structure" order="1" sideWeight="0.50409836" side_tool="true" weight="0.22239032" />
-      <window_info id="Designer" order="2" />
-      <window_info id="UI Designer" order="3" />
-      <window_info id="Favorites" order="4" sideWeight="0.14018692" side_tool="true" weight="0.22513369" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Image Layers" order="6" />
-      <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4679634" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.38787186" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
-      <window_info active="true" anchor="bottom" id="Database Console" order="7" visible="true" weight="0.32843137" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.44965675" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.34439358" />
-      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="12" weight="0.32837528" />
-      <window_info anchor="right" id="Maven" weight="0.32994652" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Mybatis Helper" order="4" weight="0.32980332" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info anchor="right" id="Database" order="7" weight="0.10669078" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info anchor="right" id="Theme Preview" order="9" />
-      <window_info anchor="right" id="ASMPlugin" order="10" />
-    </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8598131" visible="true" weight="0.22513369" />
-      <window_info id="Structure" order="1" sideWeight="0.50409836" side_tool="true" weight="0.22239032" />
-      <window_info id="Designer" order="2" />
-      <window_info id="UI Designer" order="3" />
-      <window_info id="Favorites" order="4" sideWeight="0.14018692" side_tool="true" visible="true" weight="0.22513369" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Image Layers" order="6" />
-      <window_info anchor="bottom" id="Spring" order="0" />
-      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Message" order="2" />
-      <window_info anchor="bottom" id="Find" order="3" />
-      <window_info anchor="bottom" id="Run" order="4" weight="0.4679634" />
-      <window_info active="true" anchor="bottom" id="Debug" order="5" visible="true" weight="0.38787186" />
-      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="8" weight="0.3289689" />
-      <window_info active="true" anchor="bottom" id="Database Console" order="9" visible="true" weight="0.32843137" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.44965675" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.34439358" />
-      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="14" weight="0.32837528" />
-      <window_info anchor="right" id="Maven" order="0" weight="0.32994652" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Mybatis Helper" order="5" weight="0.32980332" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" />
-      <window_info anchor="right" id="Database" order="8" weight="0.10669078" />
-      <window_info anchor="right" id="Palette&#9;" order="9" />
-      <window_info anchor="right" id="Theme Preview" order="10" />
-      <window_info anchor="right" id="ASMPlugin" order="11" />
-    </layout-to-restore>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
     <MESSAGE value="20191008 socket学习 单方通信和回信" />
-    <MESSAGE value="20191014 从尾到头便利连表" />
-    <option name="LAST_COMMIT_MESSAGE" value="20191014 从尾到头便利连表" />
+    <MESSAGE value="20191031 归并排序和面试代码" />
+    <MESSAGE value="20191031 leetcode三道" />
+    <MESSAGE value="20191101 leetcode 两道" />
+    <option name="LAST_COMMIT_MESSAGE" value="20191101 leetcode 两道" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -481,332 +409,147 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/study/Offer/TailToReadListlink.java</url>
           <line>43</line>
-          <properties />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/study/Offer/TailToReadListlink.java</url>
           <line>36</line>
-          <properties />
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/study/Offer/CreateLInklist.java</url>
-          <line>41</line>
-          <properties />
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/study/Offer/CreateLInklist.java</url>
-          <line>24</line>
-          <properties />
+          <url>file://$PROJECT_DIR$/src/main/java/com/study/EightSort/InsertSort.java</url>
+          <line>11</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/study/chat/ChatServerHandler.java</url>
-          <line>98</line>
-          <properties />
+          <url>file://$PROJECT_DIR$/src/main/java/com/study/EightSort/InsertSort.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/study/EightSort/dui.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/study/EightSort/dui.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/study/Offer/mergeLink.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/study/Offer/mergeLink.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/study/leetcode/reverse7.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/study/leetcode/isPalindrome9.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/study/leetcode/isPalindrome9.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/study/leetcode/combinationSum39.java</url>
+          <line>17</line>
           <option name="timeStamp" value="28" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/study/Offer/CreateTree.java</url>
-          <line>57</line>
-          <properties />
+          <url>file://$PROJECT_DIR$/src/main/java/com/study/leetcode/combinationSum39.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/study/leetcode/simplifyPath71.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/study/Offer/rebuildTree.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/study/Offer/reOrderArray.java</url>
+          <line>7</line>
           <option name="timeStamp" value="37" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/study/Offer/CreateTree.java</url>
-          <line>28</line>
-          <properties />
-          <option name="timeStamp" value="38" />
+          <url>file://$PROJECT_DIR$/src/main/java/com/study/Offer/Merge.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="42" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/study/Offer/CreateTree.java</url>
-          <line>30</line>
-          <properties />
-          <option name="timeStamp" value="39" />
+          <url>file://$PROJECT_DIR$/src/main/java/com/study/Offer/ReverseList.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/study/Offer/ReverseList.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/study/Offer/ReverseList.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/study/Offer/cutRope.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/study/Offer/cutRope.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/study/Offer/OneToMaxOfN.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/study/Offer/OneToMaxOfN.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/study/Offer/OneToMaxOfN.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/study/leetcode/simplifyPath71.java</url>
+          <line>8</line>
+          <properties class="com.study.leetcode.simplifyPath71" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="32" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="treeNode.left" />
+        <watch expression="first.next.next" />
+      </configuration>
+    </watches-manager>
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/e8eae33b-7066-4d0e-9dfc-6cc059dab153/console.sql" />
-    <entry file="das://e8eae33b-7066-4d0e-9dfc-6cc059dab153/schema/cmr/table/base_dict">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/study/java8/foreach/com/epi/manager/controller/numberManagerCroller.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://e8eae33b-7066-4d0e-9dfc-6cc059dab153/schema/cmr/table/epi_manager">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/e8eae33b-7066-4d0e-9dfc-6cc059dab153/console_1.sql" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/study/java8/foreach/test1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/socket/likeClientSocket.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="20" column="30" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/socket/SocketServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="45" selection-start-line="45" selection-end-line="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/socket/comeAndBack/ClientSocket.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/socket/comeAndBack/LikeServerSocket.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/Offer/createLinklist2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="55" column="25" selection-start-line="55" selection-start-column="25" selection-end-line="55" selection-end-column="25" />
-          <folding>
-            <element signature="e#223#224#0" expanded="true" />
-            <element signature="e#252#253#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/Offer/TailToReadListlink.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/Offer/TailToHeadReadListlink.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/Offer/CreateLInklist.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/Offer/resetBinaryTreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="11" selection-end-line="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/chat/ChatClientHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/chat/ChatServerInitialize.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="24" column="79" selection-start-line="24" selection-start-column="79" selection-end-line="24" selection-end-column="79" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/chat/ChatServerHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1336">
-          <caret line="99" selection-start-line="99" selection-end-line="99" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/chat/ChatClientInitializer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/chat/ChatServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
-          <caret line="52" column="32" selection-start-line="52" selection-start-column="32" selection-end-line="52" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/chat/ChatClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="31" column="55" lean-forward="true" selection-start-line="31" selection-start-column="55" selection-end-line="31" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/Offer/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
-          <folding>
-            <element signature="e#1196#1197#0" expanded="true" />
-            <element signature="e#1234#1235#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/Offer/CreateTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>study</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.1150748" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1..7</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
   </component>
 </project>
