@@ -2,60 +2,86 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4034a8a-b305-41a6-987d-ea3fe0eee032" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/study.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/JVM/ReferenceGC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/JVM/test6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/Offer/Fbonaqie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/Offer/Merge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/Offer/Min.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/Offer/OneToMaxOfN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/Offer/ReverseList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/Offer/cutRope.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/Offer/reOrderArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/Offer/rebuildTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/Offer/uglynum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/OrderTree/PostOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/OrderTree/PostOrder1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/OrderTree/PreOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/OrderTree/PreOrder1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/OrderTree/levelOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/OrderTree/midOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/OrderTree/midOrder1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/lambda/TesInTERFACE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/lambda/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/redis/testJedis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/synchronizedAndVolatile/test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/123.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/456.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/789.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hello.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzaijunheng/action/lunzhuan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzaijunheng/action/weight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzaijunheng/action/weightRaandom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzaijunheng/domain/server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzaijunheng/domain/serverMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/Collection/IteratorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/Collection/foreachTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/Collection/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/Collection/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/Collection/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/Collection/testColection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/Collection/testList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/Collection/testSET/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/Collection/testSET/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/Collection/testSET/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/Collection/testSET/test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/Collection/testSET/test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/EightSort/xiaoDui.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/FileTest/FileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/FileTest/Filetest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/FileTest/IOtest/IOInputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/FileTest/IOtest/IOtest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/FileTest/hello.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/JVM/test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/Offer/removeNthFromEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/Offer/testt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/Sort/charu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/Sort/duipaixu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/Sort/guibing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/Sort/kuaipai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/Sort/maopao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/Sort/tongpaixu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/Sort/xier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/Sort/xuanze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/Spring/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/chat/sockerClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/chat/sockerserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/exception/MyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/exception/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/exception/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/exception/test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/executor/singleExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/fanshe/person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/fanshe/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/fanshe/tet2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/hello.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/innerClass/NoNameInner1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/innerClass/noNameInner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/innerClass/noStatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/innerClass/staticClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/innerClass/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/innerClass/testlambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/manyThread/breadFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/manyThread/consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/manyThread/creatre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/manyThread/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/queue/priorityQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hello.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/cla.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hello.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/入职声明书.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/实习生录用函1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/实习生录用函2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/e8eae33b-7066-4d0e-9dfc-6cc059dab153.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/e8eae33b-7066-4d0e-9dfc-6cc059dab153.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/study/Offer/CreateLInklist$linkNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/study/Offer/CreateLInklist.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/study/Offer/CreateTree$treeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/study/Offer/CreateTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/Offer/CreateTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/study/Offer/TailToHeadReadListlink$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/Offer/TailToHeadReadListlink$ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/study/Offer/TailToHeadReadListlink.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/Offer/TailToHeadReadListlink.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/study/Offer/TailToReadListlink$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/Offer/TailToReadListlink$ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/study/Offer/TailToReadListlink.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/Offer/TailToReadListlink.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/study/Offer/createLinklist2$linkNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/study/Offer/createLinklist2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/study/Offer/test$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/Offer/test$TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/study/Offer/test$TreeValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/Offer/test$TreeValue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/study/Offer/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/Offer/test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/study/chat/ChatClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/chat/ChatClient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/study/chat/ChatClientHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/chat/ChatClientHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/study/chat/ChatClientInitializer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/chat/ChatClientInitializer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/study/chat/ChatServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/chat/ChatServer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/study/chat/ChatServerHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/chat/ChatServerHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/study/chat/ChatServerInitialize.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/chat/ChatServerInitialize.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/study/socket/SocketServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/socket/SocketServer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/study/socket/comeAndBack/ClientSocket.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/socket/comeAndBack/ClientSocket.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/study/socket/comeAndBack/LikeServerSocket.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/socket/comeAndBack/LikeServerSocket.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/study/socket/likeClientSocket.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/socket/likeClientSocket.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/study/java8/foreach/com/epi/manager/controller/numberManagerCroller.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/study/java8/foreach/com/epi/manager/controller/numberManagerCroller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/EightSort/dui.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/study/EightSort/dui.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/OrderTree/levelOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/study/OrderTree/levelOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/study.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/study.kotlin_module" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -108,14 +134,6 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>JVM</find>
-    </findStrings>
-    <dirStrings>
-      <dir>H:\study</dir>
-    </dirStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -137,6 +155,11 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ChangesTree.GroupingKeys" value="module&#10;directory" />
@@ -144,80 +167,44 @@
     <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
     <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
     <property name="GenerateAntBuildDialog.outputFileNameProperty" value="study" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://H:/study/src/main/java/com/study/chat/ChatServerHandler.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
     <property name="database.console.LAST_STATE" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../数据传输07" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15039062" />
     <property name="project.structure.side.proportion" value="0.3908046" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="H:\study\_123\target\classes" />
-      <recent name="H:\study\_123\src\main\java" />
+      <recent name="H:\study\src\main\resources" />
+      <recent name="H:\study\src\main\java\com\study\FileTest" />
+      <recent name="H:\study\src\main\java\com\study" />
+      <recent name="H:\study\src\main\java" />
+      <recent name="H:\study\target" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.OneToMaxOfN">
-    <configuration name="OneToMaxOfN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.study.Offer.OneToMaxOfN" />
-      <module name="study" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.study.Offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReverseList$ListNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.study.Offer.ReverseList$ListNode" />
-      <module name="study" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.study.Offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.breadFactory">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="cutRope" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.study.Offer.cutRope" />
+    <configuration name="breadFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.study.manyThread.breadFactory" />
       <module name="study" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.study.Offer.*" />
+          <option name="PATTERN" value="com.study.manyThread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -225,13 +212,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.study.lambda.test" />
+    <configuration name="priorityQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.study.queue.priorityQueue" />
       <module name="study" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.study.lambda.*" />
+          <option name="PATTERN" value="com.study.queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.study.manyThread.test1" />
+      <module name="study" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.study.manyThread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -247,13 +248,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testJedis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.study.redis.testJedis" />
+    <configuration name="testException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.study.exception.testException" />
       <module name="study" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.study.redis.*" />
+          <option name="PATTERN" value="com.study.exception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -263,6 +264,23 @@
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="weightRaandom.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fuzaijunheng.action.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.fuzaijunheng.action" />
+      <option name="MAIN_CLASS_NAME" value="com.fuzaijunheng.action.weightRaandom" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -279,21 +297,33 @@
     </configuration>
     <list>
       <item itemvalue="Application.test1" />
-      <item itemvalue="Application.ReverseList$ListNode" />
-      <item itemvalue="Application.testJedis" />
-      <item itemvalue="Application.test" />
-      <item itemvalue="Application.cutRope" />
-      <item itemvalue="Application.OneToMaxOfN" />
+      <item itemvalue="Application.priorityQueue" />
+      <item itemvalue="Application.testException" />
+      <item itemvalue="JUnit.weightRaandom.test" />
+      <item itemvalue="Application.test1 (1)" />
+      <item itemvalue="Application.breadFactory" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.OneToMaxOfN" />
-        <item itemvalue="Application.cutRope" />
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.testJedis" />
-        <item itemvalue="Application.ReverseList$ListNode" />
+        <item itemvalue="Application.breadFactory" />
+        <item itemvalue="Application.test1 (1)" />
+        <item itemvalue="Application.testException" />
+        <item itemvalue="Application.priorityQueue" />
+        <item itemvalue="JUnit.weightRaandom.test" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -335,6 +365,23 @@
       <workItem from="1572999589080" duration="731000" />
       <workItem from="1573012839625" duration="3655000" />
       <workItem from="1573036778479" duration="4638000" />
+      <workItem from="1573264036616" duration="5016000" />
+      <workItem from="1573350127748" duration="885000" />
+      <workItem from="1573436128035" duration="15900000" />
+      <workItem from="1573717558891" duration="10359000" />
+      <workItem from="1574132565043" duration="13302000" />
+      <workItem from="1574483222659" duration="11409000" />
+      <workItem from="1574602899422" duration="6185000" />
+      <workItem from="1574820883659" duration="12931000" />
+      <workItem from="1575025441269" duration="7100000" />
+      <workItem from="1575270644527" duration="1910000" />
+      <workItem from="1575442488194" duration="1201000" />
+      <workItem from="1575973929588" duration="5724000" />
+      <workItem from="1579319739872" duration="10000" />
+      <workItem from="1579319978678" duration="236000" />
+      <workItem from="1579320696359" duration="669000" />
+      <workItem from="1579321400635" duration="6517000" />
+      <workItem from="1579500692611" duration="5029000" />
     </task>
     <task id="LOCAL-00001" summary="20191008 socket学习 单方通信和回信">
       <created>1570542400765</created>
@@ -364,17 +411,15 @@
       <option name="project" value="LOCAL" />
       <updated>1572585219817</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="20200120 exception test">
+      <created>1579501000760</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1579501000761</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -401,7 +446,74 @@
     <MESSAGE value="20191031 归并排序和面试代码" />
     <MESSAGE value="20191031 leetcode三道" />
     <MESSAGE value="20191101 leetcode 两道" />
-    <option name="LAST_COMMIT_MESSAGE" value="20191101 leetcode 两道" />
+    <MESSAGE value="20200120 exception test" />
+    <option name="LAST_COMMIT_MESSAGE" value="20200120 exception test" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1579503648588">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1579503648588" />
+    <state x="534" y="256" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1579500801041">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="534" y="256" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1579500801041" />
+    <state x="263" y="22" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor" timestamp="1579500797663">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="263" y="22" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.0.1366.728@0.0.1366.728" timestamp="1579500797663" />
+    <state x="330" y="0" key="CommitChangelistDialog2" timestamp="1579500995036">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="330" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1579500995036" />
+    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1579500790521">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1579500790521" />
+    <state width="1323" height="197" key="GridCell.Tab.0.bottom" timestamp="1579505537124">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="197" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579505537124" />
+    <state width="1323" height="197" key="GridCell.Tab.0.center" timestamp="1579505537124">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="197" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579505537124" />
+    <state width="1323" height="197" key="GridCell.Tab.0.left" timestamp="1579505537124">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="197" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579505537124" />
+    <state width="1323" height="197" key="GridCell.Tab.0.right" timestamp="1579505537124">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="197" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579505537124" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1579504759405">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579504759405" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1579504759405">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1579504759405" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1579504759405">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1579504759405" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1579504759405">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1579504759405" />
+    <state x="186" y="9" key="SettingsEditor" timestamp="1579500903804">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1579500903804" />
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1579501008008">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1579501008008" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1579502474856">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1579502474856" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -427,16 +539,6 @@
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/study/EightSort/dui.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/study/EightSort/dui.java</url>
-          <line>29</line>
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/study/Offer/mergeLink.java</url>
           <line>54</line>
           <option name="timeStamp" value="22" />
@@ -452,16 +554,6 @@
           <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/study/leetcode/isPalindrome9.java</url>
-          <line>23</line>
-          <option name="timeStamp" value="26" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/study/leetcode/isPalindrome9.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="27" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/study/leetcode/combinationSum39.java</url>
           <line>17</line>
           <option name="timeStamp" value="28" />
@@ -475,36 +567,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/study/leetcode/simplifyPath71.java</url>
           <line>30</line>
           <option name="timeStamp" value="35" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/study/Offer/rebuildTree.java</url>
-          <line>28</line>
-          <option name="timeStamp" value="36" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/study/Offer/reOrderArray.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="37" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/study/Offer/Merge.java</url>
-          <line>37</line>
-          <option name="timeStamp" value="42" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/study/Offer/ReverseList.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="47" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/study/Offer/ReverseList.java</url>
-          <line>35</line>
-          <option name="timeStamp" value="48" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/study/Offer/ReverseList.java</url>
-          <line>34</line>
-          <option name="timeStamp" value="49" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/study/Offer/cutRope.java</url>
@@ -531,6 +593,61 @@
           <line>28</line>
           <option name="timeStamp" value="59" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/study/Collection/testList.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/study/Offer/removeNthFromEnd.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/study/Offer/testt.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/study/Offer/testt.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/study/EightSort/dui.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/study/EightSort/guibing.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/study/EightSort/guibing.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/study/EightSort/guibing.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/study/Sort/kuaipai.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/study/Sort/kuaipai.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/study/Sort/kuaipai.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/com/study/leetcode/simplifyPath71.java</url>
           <line>8</line>
@@ -538,6 +655,14 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/study/EightSort/dui.java</url>
+          <line>25</line>
+          <properties class="com.study.EightSort.dui" method="HeapAdjust">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="75" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

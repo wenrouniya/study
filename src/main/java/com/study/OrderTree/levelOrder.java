@@ -36,12 +36,14 @@ public class levelOrder {
         LinkedList<treeNode> list=new LinkedList<treeNode>();
         list.add(biTree);
         while(!list.isEmpty()){
+//            poll是队列数据结构实现类的方法，从队首获取元素，同时获取的这个元素将从原队列删除
             treeNode node=list.poll();
             System.out.println(node.val);
             if (node.left!=null)
             list.add(node.left);
             if (node.right!=null)
             list.add(node.right);
+
 
         }
     }
