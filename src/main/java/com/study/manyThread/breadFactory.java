@@ -62,7 +62,9 @@ public class breadFactory {
 
 
     public static void main(String[] args) throws InterruptedException {
+        //notify唤醒的是持有同一个锁的线程 所以需要用同一个对象传给两个线程  让sychronized锁住的对象一致
         breadFactory breadFactory = new breadFactory();
+        //breadFactory breadFactory1 =new breadFactory();
         creatre creater = new creatre(breadFactory);
         new Thread(creater).start();
         consumer consumer = new consumer(breadFactory);
