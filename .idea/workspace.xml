@@ -1,86 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d4034a8a-b305-41a6-987d-ea3fe0eee032" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/123.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/456.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/789.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hello.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzaijunheng/action/lunzhuan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzaijunheng/action/weight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzaijunheng/action/weightRaandom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzaijunheng/domain/server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fuzaijunheng/domain/serverMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/Collection/IteratorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/Collection/foreachTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/Collection/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/Collection/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/Collection/test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/Collection/testColection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/Collection/testList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/Collection/testSET/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/Collection/testSET/test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/Collection/testSET/test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/Collection/testSET/test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/Collection/testSET/test4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/EightSort/xiaoDui.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/FileTest/FileTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/FileTest/Filetest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/FileTest/IOtest/IOInputStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/FileTest/IOtest/IOtest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/FileTest/hello.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/JVM/test5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/Offer/removeNthFromEnd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/Offer/testt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/Sort/charu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/Sort/duipaixu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/Sort/guibing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/Sort/kuaipai.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/Sort/maopao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/Sort/tongpaixu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/Sort/xier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/Sort/xuanze.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/Spring/test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/chat/sockerClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/chat/sockerserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/exception/MyException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/exception/test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/exception/test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/exception/test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/executor/singleExecutor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/fanshe/person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/fanshe/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/fanshe/tet2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/hello.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/innerClass/NoNameInner1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/innerClass/noNameInner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/innerClass/noStatic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/innerClass/staticClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/innerClass/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/innerClass/testlambda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/manyThread/breadFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/manyThread/consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/manyThread/creatre.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/manyThread/test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/queue/priorityQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hello.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/cla.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hello.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/入职声明书.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/实习生录用函1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/实习生录用函2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/e8eae33b-7066-4d0e-9dfc-6cc059dab153.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/e8eae33b-7066-4d0e-9dfc-6cc059dab153.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="d4034a8a-b305-41a6-987d-ea3fe0eee032" name="Default" comment="20200120 生产者消费者多线程">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Thread/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Thread/changeThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Thread/reentrantlockChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Thread/testSySo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Thread/testduoxiancheng.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/Solution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/Solution10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/Solution11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/Solution12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/Solution13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/Solution14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/Solution15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/Solution16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/Solution17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/Solution18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/Solution3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/Solution4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/Solution5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/Solution6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/Solution7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/Solution8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/Solution9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/tet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/comparator/domain/student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/comparator/testCompare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/shuzu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/testString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/testWeiyunsuan.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/EightSort/dui.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/study/EightSort/dui.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/OrderTree/levelOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/study/OrderTree/levelOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/study.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/study.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hello.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/chat/ChatClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/chat/ChatClientHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/chat/ChatClientInitializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/chat/ChatServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/chat/ChatServerHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/chat/ChatServerInitialize.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/chat/sockerClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/chat/sockerserver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/hello.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/study/java8/foreach/com/epi/manager/controller/numberManagerCroller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/study/java8/foreach/test1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/入职声明书.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/实习生录用函1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/实习生录用函2.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,14 +59,25 @@
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
   <component name="CompilerWorkspaceConfiguration">
     <option name="MAKE_PROJECT_ON_SAVE" value="true" />
     <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/study$createTree.ic" NAME="createTree Coverage Results" MODIFIED="1571127568028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.study.Offer.*</FILTER>
     </SUITE>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="197" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -110,17 +90,7 @@
     <option name="HIDDEN_KINDS">
       <set />
     </option>
-    <expand>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="cmr@localhost" type="feb32156:DbDataSourceImpl" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="cmr@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-      </path>
-    </expand>
+    <expand />
     <select />
   </component>
   <component name="FavoritesManager">
@@ -148,8 +118,12 @@
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
       </MavenImportingSettings>
     </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1SGaP1AVoHfQwCwQ8mM81AjhePk" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -177,12 +151,15 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15039062" />
     <property name="project.structure.side.proportion" value="0.3908046" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.study.manyThread" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="H:\study\src\main\resources" />
       <recent name="H:\study\src\main\java\com\study\FileTest" />
@@ -191,48 +168,48 @@
       <recent name="H:\study\target" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.breadFactory">
+  <component name="RunManager" selected="Application.tet">
+    <configuration name="Solution17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.Solution17" />
+      <module name="study" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.Solution18" />
+      <module name="study" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="breadFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.study.manyThread.breadFactory" />
+    <configuration name="changeThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Thread.changeThread" />
       <module name="study" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.study.manyThread.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="priorityQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.study.queue.priorityQueue" />
-      <module name="study" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.study.queue.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="test1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.study.manyThread.test1" />
-      <module name="study" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.study.manyThread.*" />
+          <option name="PATTERN" value="com.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -248,13 +225,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.study.exception.testException" />
+    <configuration name="testSySo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Thread.testSySo" />
       <module name="study" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.study.exception.*" />
+          <option name="PATTERN" value="com.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.tet" />
+      <module name="study" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -264,23 +255,6 @@
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="weightRaandom.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.fuzaijunheng.action.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.fuzaijunheng.action" />
-      <option name="MAIN_CLASS_NAME" value="com.fuzaijunheng.action.weightRaandom" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -297,19 +271,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.test1" />
-      <item itemvalue="Application.priorityQueue" />
-      <item itemvalue="Application.testException" />
-      <item itemvalue="JUnit.weightRaandom.test" />
-      <item itemvalue="Application.test1 (1)" />
-      <item itemvalue="Application.breadFactory" />
+      <item itemvalue="Application.Solution17" />
+      <item itemvalue="Application.Solution18" />
+      <item itemvalue="Application.testSySo" />
+      <item itemvalue="Application.changeThread" />
+      <item itemvalue="Application.tet" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.breadFactory" />
-        <item itemvalue="Application.test1 (1)" />
-        <item itemvalue="Application.testException" />
-        <item itemvalue="Application.priorityQueue" />
-        <item itemvalue="JUnit.weightRaandom.test" />
+        <item itemvalue="Application.tet" />
+        <item itemvalue="Application.changeThread" />
+        <item itemvalue="Application.testSySo" />
+        <item itemvalue="Application.Solution18" />
+        <item itemvalue="Application.Solution17" />
       </list>
     </recent_temporary>
   </component>
@@ -381,7 +355,18 @@
       <workItem from="1579319978678" duration="236000" />
       <workItem from="1579320696359" duration="669000" />
       <workItem from="1579321400635" duration="6517000" />
-      <workItem from="1579500692611" duration="5029000" />
+      <workItem from="1579500692611" duration="6607000" />
+      <workItem from="1579669825318" duration="14704000" />
+      <workItem from="1580219889287" duration="1982000" />
+      <workItem from="1580262081482" duration="7007000" />
+      <workItem from="1580699596306" duration="7632000" />
+      <workItem from="1580877031458" duration="10169000" />
+      <workItem from="1581321409637" duration="18287000" />
+      <workItem from="1581479956657" duration="963000" />
+      <workItem from="1581681385321" duration="792000" />
+      <workItem from="1581744131641" duration="13341000" />
+      <workItem from="1581905864478" duration="1923000" />
+      <workItem from="1582192302316" duration="12337000" />
     </task>
     <task id="LOCAL-00001" summary="20191008 socket学习 单方通信和回信">
       <created>1570542400765</created>
@@ -418,7 +403,21 @@
       <option name="project" value="LOCAL" />
       <updated>1579501000761</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="20200120 生产者消费者多线程">
+      <created>1579505806832</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1579505806832</updated>
+    </task>
+    <task id="LOCAL-00007" summary="20200129 多线程">
+      <created>1580270212732</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1580270212732</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -447,13 +446,19 @@
     <MESSAGE value="20191031 leetcode三道" />
     <MESSAGE value="20191101 leetcode 两道" />
     <MESSAGE value="20200120 exception test" />
-    <option name="LAST_COMMIT_MESSAGE" value="20200120 exception test" />
+    <MESSAGE value="20200120 生产者消费者多线程" />
+    <MESSAGE value="20200129 多线程" />
+    <option name="LAST_COMMIT_MESSAGE" value="20200129 多线程" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1579503648588">
+    <state x="137" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581750059245">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1579503648588" />
+    <state x="137" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1581750059245" />
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1582200662659">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1582200662659" />
     <state x="534" y="256" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1579500801041">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -462,58 +467,78 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="263" y="22" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.0.1366.728@0.0.1366.728" timestamp="1579500797663" />
-    <state x="330" y="0" key="CommitChangelistDialog2" timestamp="1579500995036">
+    <state x="467" y="231" width="431" height="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1580188271273">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="330" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1579500995036" />
-    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1579500790521">
+    <state x="467" y="231" width="431" height="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1580188271273" />
+    <state x="330" y="0" key="CommitChangelistDialog2" timestamp="1580270210048">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1579500790521" />
-    <state width="1323" height="197" key="GridCell.Tab.0.bottom" timestamp="1579505537124">
+    <state x="330" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1580270210048" />
+    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1581932153873">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="197" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579505537124" />
-    <state width="1323" height="197" key="GridCell.Tab.0.center" timestamp="1579505537124">
+    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1581932153873" />
+    <state width="1323" height="252" key="GridCell.Tab.0.bottom" timestamp="1582206024727">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="197" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579505537124" />
-    <state width="1323" height="197" key="GridCell.Tab.0.left" timestamp="1579505537124">
+    <state width="1323" height="252" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582206024727" />
+    <state width="1323" height="252" key="GridCell.Tab.0.center" timestamp="1582206024727">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="197" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579505537124" />
-    <state width="1323" height="197" key="GridCell.Tab.0.right" timestamp="1579505537124">
+    <state width="1323" height="252" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582206024727" />
+    <state width="1323" height="252" key="GridCell.Tab.0.left" timestamp="1582206024727">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="197" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579505537124" />
-    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1579504759405">
+    <state width="1323" height="252" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582206024727" />
+    <state width="1323" height="252" key="GridCell.Tab.0.right" timestamp="1582206024727">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579504759405" />
-    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1579504759405">
+    <state width="1323" height="252" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582206024727" />
+    <state width="1323" height="203" key="GridCell.Tab.1.bottom" timestamp="1582206024720">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1579504759405" />
-    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1579504759405">
+    <state width="1323" height="203" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582206024720" />
+    <state width="1323" height="203" key="GridCell.Tab.1.center" timestamp="1582206024719">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1579504759405" />
-    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1579504759405">
+    <state width="1323" height="203" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1582206024719" />
+    <state width="1323" height="203" key="GridCell.Tab.1.left" timestamp="1582206024719">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1579504759405" />
-    <state x="186" y="9" key="SettingsEditor" timestamp="1579500903804">
+    <state width="1323" height="203" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1582206024719" />
+    <state width="1323" height="203" key="GridCell.Tab.1.right" timestamp="1582206024719">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1579500903804" />
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1579501008008">
+    <state width="1323" height="203" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1582206024719" />
+    <state x="184" y="10" key="SettingsEditor" timestamp="1581906002074">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1579501008008" />
+    <state x="184" y="10" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1581906002074" />
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1580270377743">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1580270377743" />
+    <state x="363" y="102" width="615" height="439" key="com.intellij.ide.util.TipDialog" timestamp="1581905914360">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="102" width="615" height="439" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1581905914360" />
+    <state x="370" y="119" width="759" height="548" key="find.popup" timestamp="1581780792435">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="370" y="119" width="759" height="548" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1581780792435" />
+    <state x="57" y="0" key="new project wizard" timestamp="1580222045292">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="57" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1580222045292" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1579502474856">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1579502474856" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1581391885933">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1581391885933" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -648,6 +673,266 @@
           <line>28</line>
           <option name="timeStamp" value="91" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/leetcode/Solution3.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/leetcode/Solution3.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/leetcode/Solution3.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/leetcode/Solution3.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/leetcode/Solution3.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/leetcode/Solution5.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/leetcode/Solution5.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/leetcode/Solution5.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/leetcode/Solution6.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/leetcode/Solution6.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/leetcode/Solution6.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/leetcode/Solution6.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/leetcode/Solution6.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/leetcode/Solution6.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/leetcode/Solution6.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/leetcode/Solution6.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/leetcode/Solution6.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/leetcode/Solution7.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/leetcode/Solution8.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/leetcode/Solution8.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/leetcode/Solution8.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/leetcode/Solution9.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/leetcode/Solution9.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/leetcode/Solution9.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/leetcode/Solution9.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/leetcode/Solution9.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/leetcode/Solution9.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/leetcode/Solution11.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/leetcode/Solution11.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/leetcode/Solution11.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/leetcode/Solution11.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/leetcode/Solution11.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/leetcode/Solution11.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="147" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/leetcode/Solution11.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/leetcode/Solution11.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="150" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/leetcode/Solution14.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/leetcode/Solution14.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/leetcode/Solution14.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/leetcode/Solution14.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/leetcode/Solution14.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="155" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/leetcode/Solution14.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="156" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/leetcode/Solution18.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="171" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/leetcode/Solution18.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="173" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/leetcode/Solution18.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="174" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/leetcode/Solution18.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="175" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/leetcode/Solution18.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="176" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/leetcode/Solution18.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="177" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/leetcode/Solution18.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="178" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/leetcode/Solution18.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="179" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/leetcode/Solution18.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="180" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/leetcode/Solution18.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="181" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/leetcode/Solution18.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="182" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/com/study/leetcode/simplifyPath71.java</url>
           <line>8</line>
@@ -670,11 +955,18 @@
       <configuration name="Application">
         <watch expression="treeNode.left" />
         <watch expression="first.next.next" />
+        <watch expression="t1" />
+        <watch expression="first.next.next" />
       </configuration>
     </watches-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/study$Solution8.ic" NAME="Solution8 Coverage Results" MODIFIED="1581325884123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.leetcode.*</FILTER>
+    </SUITE>
   </component>
 </project>
